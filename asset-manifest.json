@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SpaceCiCd/static/css/main.f788be68.css",
+    "main.js": "/SpaceCiCd/static/js/main.bd8e8c8b.js",
+    "static/js/787.e5372b0f.chunk.js": "/SpaceCiCd/static/js/787.e5372b0f.chunk.js",
+    "static/media/logo.svg": "/SpaceCiCd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SpaceCiCd/index.html",
+    "main.f788be68.css.map": "/SpaceCiCd/static/css/main.f788be68.css.map",
+    "main.bd8e8c8b.js.map": "/SpaceCiCd/static/js/main.bd8e8c8b.js.map",
+    "787.e5372b0f.chunk.js.map": "/SpaceCiCd/static/js/787.e5372b0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f788be68.css",
+    "static/js/main.bd8e8c8b.js"
+  ]
+}
