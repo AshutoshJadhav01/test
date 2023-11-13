@@ -14,6 +14,7 @@ version: 0.2
      # key: secret-id:json-key:version-stage:version-id
      # key: secret-id:json-key:version-stage:version-id
   #exported-variables:
+  
      # - variable
      # - variable
   #git-credential-helper: yes
